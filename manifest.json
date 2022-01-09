@@ -2,7 +2,7 @@
     "name": "Quote Generator",
     "short_name": "Quotes",
     "start_url": "https://pixelknox.github.io/quote-generator/",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#316B83",
     "theme_color": "#14495e",
     "description": "Gaurav Dhiman",
